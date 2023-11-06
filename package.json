@@ -1,0 +1,17 @@
+{
+  "name": "subarunew",
+  "version": "0.0.0",
+  "scripts": {
+    "ng": "",
+    "start": "",
+    "build": "",
+    "test": "",
+    "lint": "",
+    "e2e": ""
+  },
+  "private": true,
+  "dependencies": {
+
+
+  }
+}
